@@ -1,4 +1,4 @@
-# Pandas Descriptive Statistics Script
+# Polars Descriptive Statistics Script
 
 ## Files
 
@@ -9,7 +9,7 @@
 
 ## Requirement.txt
 
-Add three dependency (polars, plotly, kaleido) by ds.py script to `requirement.txt`
+Add three dependencies (polars, plotly, kaleido) used by ds.py script to `requirement.txt`
 
 ```
 polars==0.19.2

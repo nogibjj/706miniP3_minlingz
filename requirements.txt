@@ -1,0 +1,6 @@
+flask
+black==23.3.0
+ruff==0.0.285
+polars==0.19.2
+plotly==5.16.1
+kaleido==0.2.1
